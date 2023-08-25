@@ -2,6 +2,8 @@
 
 This app uses NLP to extract 10 high information words from a transcript then shows digraph models of the word before and after which compose the meaningful sequences.  Here we demonstrate the ability to generalize around the high value information words that form the brain/spinal column of the text by clarifying the features and relationships important to receive the fidelity signal from the core of the long text.
 
+# App URL:  https://huggingface.co/spaces/awacke1/YouTubeTranscript2Insights
+
 ## Model of App:
 
 ![image](https://github.com/AaronCWacker/YouTubeTranscript2Insights/assets/30595158/93c1867b-fda4-43fe-8cf2-75b087bbc42f)
